@@ -1,2 +1,4 @@
 # Flappy_bird
-Jogo Flappy Bird feito em python
+Cópia do jogo Flappy Bird feito em python.
+<br>
+Atividade de playlist rápida utilizando a biblioteca pygame.
